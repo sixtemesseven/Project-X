@@ -1,0 +1,20 @@
+Added Component: Designator=U1(SOIC8)
+Added Component: Designator=U5(SOIC8)
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=SS Pin=U1-2
+Added Pin To Net: NetName=ENUV Pin=U1-3
+Added Pin To Net: NetName=5V Pin=U1-4
+Added Pin To Net: NetName=NetQ1_3 Pin=U1-5
+Added Pin To Net: NetName=NetR2_1 Pin=U1-7
+Added Pin To Net: NetName=OVP Pin=U1-8
+Added Pin To Net: NetName=RX_I Pin=U5-1
+Added Pin To Net: NetName=3.3V Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GRID Pin=U5-4
+Added Pin To Net: NetName=A_FEDB_F Pin=U5-5
+Added Pin To Net: NetName=V_SENSE Pin=U5-6
+Added Pin To Net: NetName=PWM_ADC Pin=U5-7
+Added Pin To Net: NetName=TX_I Pin=U5-8
+Added Member To Class: ClassName=main Member=Component U1 TPS25921ADR
+Added Member To Class: ClassName=main Member=Component U5 STM32G030J6M6
+Added Room: Name=main

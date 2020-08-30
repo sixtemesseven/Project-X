@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=NetC16_2 Pin=C17-1
+Removed Pin From Net: NetName=HGND Pin=C17-2
+Removed Pin From Net: NetName=NetC16_2 Pin=C18-1
+Removed Pin From Net: NetName=HGND Pin=C18-2
+Removed Pin From Net: NetName=NetL1_1 Pin=XF2-2
+Change Component Footprint: Designator=C17 Old Footprint=PNSC-CAP-10x20-P2 New Footprint=CAPC3216X180X50LL20T30
+Change Component Footprint: Designator=C18 Old Footprint=PNSC-CAP-10x20-P2 New Footprint=CAPC3216X180X50LL20T30
+Change Component Comment : Designator=C17 Old Comment=47uF 420V New Comment=20uF 50V X7R
+Change Component Comment : Designator=C18 Old Comment=47uF 420V New Comment=20uF 50V X7R
+Change Managed Component Library Link : Designator=C17 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A997B181-7DBC-4C76-A949-669702F41FA4 New ItemGUID=24AC0087-3A66-4491-88A0-F9B83689A831 Old RevisionGUID=91F0B256-D44B-47DD-B42F-04D3DF358EA8 New RevisionGUID=1D9359C4-604E-4CAA-B449-D632AD4C4678
+Change Managed Component Library Link : Designator=C18 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A997B181-7DBC-4C76-A949-669702F41FA4 New ItemGUID=24AC0087-3A66-4491-88A0-F9B83689A831 Old RevisionGUID=91F0B256-D44B-47DD-B42F-04D3DF358EA8 New RevisionGUID=1D9359C4-604E-4CAA-B449-D632AD4C4678
+Change component parameters: Designator = "C17" ("C17"); Footprint = "PNSC-CAP-10x20-P2"; UniqueID = "\URHOLTNP" ("\URHOLTNP")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "PNSC-CAP-10x20-P2"; UniqueID = "\MHYBERRC" ("\MHYBERRC")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAPC3216X180X50LL20T30)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "07/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIOD-S1M-13-F-SMA-2_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.diodes.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://diodes.com/datasheets/ds16003.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://diodes.com/datasheets/ds16003.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 22 - 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage Drop VF (V)"; Value = "1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Average Rectified Current IO (A)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Peak Forward Surge Current IFSM (A)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Reverse Current IR (uA)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-65 to 150 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin SMD, Body 4.3 x 2.605 mm, Height 2.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "S1M-13-F-SMA-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 22 - 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "S1M-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Repetitive Reverse Voltage VRRM (V)"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Capacitance CT (pF)"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(0805_A)
+Add component (AddParameter): Name = "Color"; Value = "Super Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150080SS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805_A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "150080SS75000"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(0805_A)
+Add component (AddParameter): Name = "Color"; Value = "Super Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150080SS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805_A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "150080SS75000"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC2013X60X40NL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA-6AEB303V"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC2013X60X40NL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA-6AEB303V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HGND Pin=C17-1
+Added Pin To Net: NetName=NetC16_2 Pin=C17-2
+Added Pin To Net: NetName=HGND Pin=C18-1
+Added Pin To Net: NetName=NetC16_2 Pin=C18-2
+Added Pin To Net: NetName=HGND Pin=C29-1
+Added Pin To Net: NetName=NetC16_2 Pin=C29-2
+Added Pin To Net: NetName=NetL1_1 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=GRID Pin=R14-1
+Added Pin To Net: NetName=3.3V Pin=R15-1
+Change Net Name : Old Net Name=NetL1_1 New Net Name=NetD2_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=XF2-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R14-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R15-2
+Added Net: Name=NetLED2_2
+Added Member To Class: ClassName=main Member=Component C29 20uF 50V X7R
+Added Member To Class: ClassName=main Member=Component D2 S1M-13-F
+Added Member To Class: ClassName=main Member=Component LED1 LED
+Added Member To Class: ClassName=main Member=Component LED2 LED
+Added Member To Class: ClassName=main Member=Component R14 100
+Added Member To Class: ClassName=main Member=Component R15 100

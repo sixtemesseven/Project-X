@@ -1,0 +1,6 @@
+Added Component: Designator=R26(RESC2013X50X30NL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0805470KFKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HGND Pin=R26-1
+Added Pin To Net: NetName=NetP4_1 Pin=R26-2
+Added Member To Class: ClassName=main Member=Component R26 4.7M
